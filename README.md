@@ -94,7 +94,23 @@ The Power BI dashboard includes:
 * 🗺️ Revenue comparison by state
 * 🔵 Acquisition cost vs retention rate analysis
 
-📷 *Dashboard preview screenshots are available in the `/images` folder.*
+---
+
+### 📷 Dashboard Overview
+
+<p align="center">
+  <img src="images/dashboard_preview.png" width="900">
+</p>
+
+---
+
+### 📂 Power BI File
+
+The interactive dashboard file is available here:
+
+`/PowerBI/Insurance_Data.pbix`
+
+> Download and open using Power BI Desktop to explore the full interactive version.
 
 ---
 
